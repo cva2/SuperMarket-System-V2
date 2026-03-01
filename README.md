@@ -41,9 +41,3 @@ A new tier of permission was introduced to control system access for other emplo
 * **Promotion:** Changes an existing Rank 1 Employee into a Rank 2 Manager.
 
 ---
-
-## 📈 Architecture Note
-
-V2 represents a necessary structural migration to move the procedural foundation into a managed application. By minimizing globals and emphasizing function encapsulation, the code becomes more maintainable. V2 focuses primarily on **Authorization and CRUD Operations** before the complete transition to modular, Object-Oriented design patterns (V3).
-
----
