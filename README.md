@@ -1,4 +1,3 @@
-# supermarket-system-v2
 # 🛒 Supermarket System V2 (The OOP Evolution)
 
 **Supermarket System V2** represents a significant advancement over the initial procedural version. While Version 1 focused on the basic mechanics of input, calculation, and currency-based change return, V2 evolves the codebase into a structured, authenticated application with an emphasis on role-based access control and administrative functionality.
